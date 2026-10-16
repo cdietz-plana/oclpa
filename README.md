@@ -9,6 +9,7 @@ Interactive presentation by Plan A Technologies. The content is encrypted and op
 
 ## Presenting
 - Next / previous: arrow keys, space, clicking the slide, or swiping on a phone
-- On the priorities slide, the arrow keys step through each priority before moving on
+- Slides 2 to 10 build on each click: cards (slides 2 to 7), columns (slide 8), rows (slides 9 and 10). Going back removes the last item
+- On the priorities slide, each click or arrow steps through the next priority before moving on
 - **O** shows a grid of all slides, **F** goes fullscreen, **?** lists the shortcuts
 - Add `#6` to the address to open on a specific slide
